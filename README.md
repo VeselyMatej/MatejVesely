@@ -5,7 +5,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="150" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="100" height="50">
 </p>
 
 ## About me ツ
