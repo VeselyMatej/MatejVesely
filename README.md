@@ -15,7 +15,7 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 - 2D arcade game [WingSquad](https://github.com/VeselyMatej/WingSquad/releases)
 - simple calculator for BMI [BMI Calculator](https://github.com/VeselyMatej/BMI-Calc/releases)
 
-## 🔧 Development tools and environments:
+## 🔧 Development tools and environments
 - 🖥️ **Languages**: Python, basics of HTML
 - 🎨 **3D environment**: Blender, Plasticity
 - 🛠️ **Other tools**: Git, Github, Sketchfab, VS Code, PyCharm, VM Ware
