@@ -2,6 +2,9 @@
 
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Pygame Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Pygame_logo.svg)
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
 ## O mně
 Jsem nadšenec do programování a technologií. Rád(a) se učím nové věci a pracuji na zajímavých projektech.
