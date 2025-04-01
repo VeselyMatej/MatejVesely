@@ -4,7 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="100" height="50">
 </p>
 
