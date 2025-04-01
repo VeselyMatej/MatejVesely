@@ -1,9 +1,12 @@
 <h2 align="left">Hey there, Im MatejVesely 👱‍♂️</h2>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Pygame_logo.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50">
+</p>
 
 ## O mně
 Jsem nadšenec do programování a technologií. Rád(a) se učím nové věci a pracuji na zajímavých projektech.
