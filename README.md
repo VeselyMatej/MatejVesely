@@ -11,7 +11,7 @@
 ## About me ツ
 I am interested in **programming**, **3D** **modeling** and **printing**, and **cybersecurity**.
 
-## My projects ✏️
+## ✏️ My projects 
 - 2D arcade game [WingSquad](https://github.com/VeselyMatej/WingSquad/releases)
 - simple calculator for BMI [BMI Calculator](https://github.com/VeselyMatej/BMI-Calc/releases)
 
