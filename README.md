@@ -20,6 +20,9 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 - 🎨 **3D environment**: Blender, Plasticity
 - 🛠️ **Other tools**: Git, Github, Sketchfab, VS Code, PyCharm, VM Ware
 
+## 📊 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeselyMatej&hide=html&layout=compact)
+
 ## 📖 What am I learning
 - **C#**: Trying to master object-oriented programming and understand the basics of C#
 - **Fusion360**: Learning the basics of 3d modeling in this CAD sw
@@ -31,7 +34,7 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 - 🔫 **Airsoft**: Playing airsoft for fun
 
 ## Others
-- 🧊 **Sketchfab**: [My sketchfab profile](https://sketchfab.com/VeselyMatej)
+- 🧊 **Sketchfab**: [My Sketchfab profile](https://sketchfab.com/VeselyMatej)
 
 
 
