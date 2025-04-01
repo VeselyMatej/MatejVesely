@@ -1,25 +1,33 @@
-<h2 align="left">Hey there, Im MatejVesely 👱‍♂️</h2>
-
+<h2 align="left">Hey there, I'm VeselyMatej 🙋‍♂️ </h2>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="100" height="50">
 </p>
 
-## O mně
-Jsem nadšenec do programování a technologií. Rád(a) se učím nové věci a pracuji na zajímavých projektech.
+## About me ツ
+I am interested in **programming**, **3D** **modeling** and **printing**, and **cybersecurity**.
 
-## 🔧 Technologie, které používám
-- 🖥️ **Jazyky**: Python, JavaScript, C++
-- 🛠️ **Frameworky**: React, Node.js, Django
-- 🗄️ **Databáze**: MySQL, PostgreSQL, MongoDB
+## 🔧 Development tools and environments:
+- 🖥️ **Languages**: Python, basics of HTML
+- 🎨 **3D environment**: Blender, Plasticity
+- 🛠️ **Other tools**: Git, Github, Sketchfab, VS Code, PyCharm, VM Ware
 
-## 📫 Kontakt
-- 🌐 [Můj web](https://tvujweb.cz)
-- ✉️ [E-mail](mailto:tvojemail@example.com)
-- 🐦 [Twitter](https://twitter.com/tvujprofil)
+## 📖 What am I learning:
+- **C++**: Trying to master object-oriented programming and understand the basics of C++
+- **Fusion360**: Learning the basics of 3d modeling in this CAD sw
+-🌐 **Cybersecurity**: Exploring the fundamentals of ethical hacking and network security.
 
-Děkuji za návštěvu mého profilu! 🚀
+## 🌟 Hobbies
+- 🎮 Gaming: Enjoying strategy games and learning game mechanics.
+- 🛠️ 3D Printing: Experimenting with different designs and learning about the printing process.
+- 📚 Reading: Exploring books on technology, programming, and personal growth.
+
+## Others
+- 🧊 **Sketchfab**: [My profile](https://sketchfab.com/VeselyMatej)
+
+
 
