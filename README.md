@@ -20,7 +20,7 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 - 🎨 **3D environment**: Blender, Plasticity
 - 🛠️ **Other tools**: Git, Github, Sketchfab, VS Code, PyCharm, VM Ware
 
-## 📊 My GitHub Stats
+##### 📊 My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeselyMatej&hide=html&layout=compact)
 
 ## 📖 What am I learning
