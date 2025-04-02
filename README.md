@@ -27,7 +27,7 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 ## 📖 What am I learning
 - **C#**: Trying to master object-oriented programming and understand the basics of C#.
 - **Fusion360**: Learning the basics of 3d modeling in this CAD sw.
-- 🌐 **Cybersecurity**: Exploring the fundamentals of ethical hacking and network security.
+- 🌐 **Cybersecurity**: Exploring the fundamentals of ****ethical hacking**** and ****network**** security.
 
 ## 🌟 Hobbies
 - 🎮 **Gaming**: Enjoying computer games and learning game mechanics.
