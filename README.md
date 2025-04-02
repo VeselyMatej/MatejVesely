@@ -12,6 +12,7 @@ I am interested in **programming**, **3D** **modeling** and **printing**, and **
 - 🖥️ **Languages**: Python, basics of HTML
 - 🎨 **3D environment**: Blender, Plasticity
 - 🛠️ **Others**: Git, Github, Sketchfab, VS Code, PyCharm, VM Ware
+  - 🐧 experiences with Linux
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
